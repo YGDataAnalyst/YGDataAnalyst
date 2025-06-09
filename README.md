@@ -1,5 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hello World!👋</h1>
+<p>My name is Yesi, and here are a few things I'm working on:</p>
 
+<ul>
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+</ul>
+<hr>
+
+<p> I'm a <strong>data geek</strong>, so feel free to contact me!</p>
+<!--
+**# YGDataAnalyst.github.io**
+-->
 <!--
 **YGDataAnalyst/YGDataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
