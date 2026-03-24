@@ -21,7 +21,7 @@ Currently, I am **pivoting my expertise toward Generative AI and LLM Orchestrati
 * **Pipeline Management:** Orchestrated daily data pipelines using **Synapse, Logic Apps, and SSIS** for global ticketing and marketing datasets.
 * **Executive Insights:** Designed the **Festivals Dashboard**, consolidating performance data for 2022-2025 across multiple operating companies.
   
-#### **BI & Analytics Lead | Marsh and McLennan Companies (London, UK)**
+#### **BI & Analytics | Marsh and McLennan Companies (London, UK)**
 *Focus: Operations Dept / End-to-End BI Lifecycle*
 * **Chatbot Analytics:** Developed a specialized reporting suite in Power BI using **Azure Cosmos DB (JSON)** to track chatbot usage trends and user satisfaction.
 * **Workflow Automation:** Integrated **Power Automate** to process unstructured feedback from emails/ServiceNow into real-time SharePoint insights.
@@ -46,10 +46,10 @@ Currently, I am **pivoting my expertise toward Generative AI and LLM Orchestrati
 
 ### 🎓 Certifications (In Progress)
 * **Python for Data Science, AI & Development** (IBM/Coursera)
-* **Data Science for Business** (DataScience ForBusiness)
+* **Data Science for Business** (DataScience For Business)
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Insert your LinkedIn Link Here]
+* **LinkedIn:** [http://www.linkedin.com/in/yesi-gonzalez-alayo]
 * **Portfolio:** You're looking at it! Check my pinned repositories below.
